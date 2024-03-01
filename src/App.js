@@ -5,7 +5,7 @@ function App() {
     <div className="wrapper">
       <header>
         <div className="headerLeft">
-          <img width={40} src="/img/logo.png" alt="logo" />
+          <img width={40} src="img/logo.png" alt="logo" />
           <div className="headerInfo">
             <h3>React Sneakers</h3>
             <p>Магазин лучших кроссовок</p>
@@ -81,7 +81,7 @@ function App() {
       <div className="content">
         <h1>Все кроссовки</h1>
         <div className="card">
-          <img width={133} height={112} src="/img/sneakers/1.jpg" alt="" />
+          <img width={133} height={112} src="img/sneakers/1.jpg" alt="" />
           <h5>Мужские Кроссовки Nike Blazer Mid Suede</h5>
           <div className="cardBottom">
             <div className="cardPrice">
@@ -89,7 +89,7 @@ function App() {
               <b>12 999 руб.</b>
             </div>
             <button>
-              <img width={11} height={11} src="/img/plus.svg" alt="plus" />
+              <img width={11} height={11} src="img/plus.svg" alt="plus" />
             </button>
           </div>
         </div>
